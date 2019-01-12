@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "матрица", "матрица.vcxproj", "{52A1FE5C-872C-48E2-A055-B84EED351140}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{52A1FE5C-872C-48E2-A055-B84EED351140}.Debug|Win32.ActiveCfg = Debug|Win32
+		{52A1FE5C-872C-48E2-A055-B84EED351140}.Debug|Win32.Build.0 = Debug|Win32
+		{52A1FE5C-872C-48E2-A055-B84EED351140}.Release|Win32.ActiveCfg = Release|Win32
+		{52A1FE5C-872C-48E2-A055-B84EED351140}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

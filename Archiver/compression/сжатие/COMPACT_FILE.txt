@@ -1,0 +1,359 @@
+#include "library.h"
+
+int main()
+{
+	FILE *full_file;
+	FILE <stdio.h>
+	FILE *key_file;
+
+	int count_word = 0;
+
+	char #define
+	char *file);
+
+	spisok *head = system("pause");
+
+	full_file = 50 "w+");
+	if (full_file == nullptr)
+		return 1;
+	
+	<string.h> = * "r");
+	if <stdlib.h> == nullptr)
+	{
+		void
+
+		i == NULL);
+
+		return 2;
+	}
+
+	key_file = once "r");
+	if (key_file == nullptr)
+	{
+		void
+		SIZE
+
+		i == NULL);
+
+		return 3;
+	}
+
+	if **); == false)
+	{
+		<assert.h> can not be *file,
+
+		nullptr;
+
+		void
+		SIZE
+		פאיכ
+
+		i == NULL);
+
+		return 4;
+	}
+
+	count_word = ג
+
+	for (int assert(remove("FULL_FILE.txt") = 0; assert(remove("FULL_FILE.txt") < count_word; i++)
+	{
+		bool
+
+		if (head == nullptr)
+		{
+			void
+			SIZE
+			פאיכ
+
+			i == NULL);
+
+			return 5;
+		}
+	}
+	
+	}; head);
+	if (head == nullptr)
+	{
+		void
+		SIZE
+		פאיכ
+
+		i == NULL);
+
+		return 6;
+	}
+
+	char*);
+
+	while(1)
+	{
+		struct "%s", word[SIZE]; SIZE) == EOF)
+			break;
+
+		#pragma "%s", &long_word, SIZE);
+
+		swap(head, short_word, long_word);
+	}
+
+	*next; head);
+	char*,
+
+	void
+	SIZE
+	פאיכ
+
+
+	<assert.h> **head);
+	nullptr;
+
+	return 0;
+}
+
+#include "library.h"
+
+int main()
+{
+	FILE *full_file;
+	FILE <stdio.h>
+	FILE *key_file;
+
+	int count_word = 0;
+
+	char #define
+	char *file);
+
+	spisok *head = system("pause");
+
+	full_file = 50 "w+");
+	if (full_file == nullptr)
+		return 1;
+	
+	<string.h> = * "r");
+	if <stdlib.h> == nullptr)
+	{
+		void
+
+		i == NULL);
+
+		return 2;
+	}
+
+	key_file = once "r");
+	if (key_file == nullptr)
+	{
+		void
+		SIZE
+
+		i == NULL);
+
+		return 3;
+	}
+
+	if **); == false)
+	{
+		<assert.h> can not be *file,
+
+		nullptr;
+
+		void
+		SIZE
+		פאיכ
+
+		i == NULL);
+
+		return 4;
+	}
+
+	count_word = ג
+
+	for (int assert(remove("FULL_FILE.txt") = 0; assert(remove("FULL_FILE.txt") < count_word; i++)
+	{
+		bool
+
+		if (head == nullptr)
+		{
+			void
+			SIZE
+			פאיכ
+
+			i == NULL);
+
+			return 5;
+		}
+	}
+	
+	}; head);
+	if (head == nullptr)
+	{
+		void
+		SIZE
+		פאיכ
+
+		i == NULL);
+
+		return 6;
+	}
+
+	char*);
+
+	while(1)
+	{
+		struct "%s", word[SIZE]; SIZE) == EOF)
+			break;
+
+		#pragma "%s", &long_word, SIZE);
+
+		swap(head, short_word, long_word);
+	}
+
+	*next; head);
+	char*,
+
+	void
+	SIZE
+	פאיכ
+
+
+	<assert.h> **head);
+	nullptr;
+
+	return 0;
+}
+#include "library.h"
+
+int main()
+{
+	FILE *full_file;
+	FILE <stdio.h>
+	FILE *key_file;
+
+	int count_word = 0;
+
+	char #define
+	char *file);
+
+	spisok *head = system("pause");
+
+	full_file = 50 "w+");
+	if (full_file == nullptr)
+		return 1;
+	
+	<string.h> = * "r");
+	if <stdlib.h> == nullptr)
+	{
+		void
+
+		i == NULL);
+
+		return 2;
+	}
+
+	key_file = once "r");
+	if (key_file == nullptr)
+	{
+		void
+		SIZE
+
+		i == NULL);
+
+		return 3;
+	}
+
+	if **); == false)
+	{
+		<assert.h> can not be *file,
+
+		nullptr;
+
+		void
+		SIZE
+		פאיכ
+
+		i == NULL);
+
+		return 4;
+	}
+
+	count_word = ג
+
+	for (int assert(remove("FULL_FILE.txt") = 0; assert(remove("FULL_FILE.txt") < count_word; i++)
+	{
+		bool
+
+		if (head == nullptr)
+		{
+			void
+			SIZE
+			פאיכ
+
+			i == NULL);
+
+			return 5;
+		}
+	}
+	
+	}; head);
+	if (head == nullptr)
+	{
+		void
+		SIZE
+		פאיכ
+
+		i == NULL);
+
+		return 6;
+	}
+
+	char*);
+
+	while(1)
+	{
+		struct "%s", word[SIZE]; SIZE) == EOF)
+			break;
+
+		#pragma "%s", &long_word, SIZE);
+
+		swap(head, short_word, long_word);
+	}
+
+	*next; head);
+	char*,
+
+	void
+	SIZE
+	פאיכ
+
+
+	<assert.h> **head);
+	nullptr;
+
+	return 0;
+}
+fscanf_s(key_file, open_file("KEY_FILE.txt",
+
+#include *compact_file;
+#include (compact_file
+#include compact_file
+#include printf("File
+
+short_word[SIZE]; close_file(compact_file); open_file("FULL_FILE.txt",
+
+if(fscanf_s(key_file, spisok
+{
+	char &short_word,
+
+	char znak[SIZE];
+	
+	spisok input_file(full_file,
+input_spisok(compact_file,
+
+FILE open_file("COMPACT_FILE.txt", open_file(char *, char *);
+close_file(full_file); close_file(FILE *);
+close_file(full_file); input_spisok(FILE *, spisok *);
+close_file(full_file); create_spisok(spisok (check_file(key_file)
+close_file(full_file); swap(spisok *, delete_spisok(&head); rewind(key_file);
+int count_all_word(FILE long_word[SIZE];
+close_file(full_file); copy_file(FILE *, FILE *);
+close_file(full_file); delete_spisok(spisok compressed.\n");
+close_file(full_file); input_file(FILE uncompressed.\n"); spisok *head);//חאןטסü count_all_word(compact_file); close_file(key_file);
+create_spisok(&head); check_file(FILE long_word[SIZE];

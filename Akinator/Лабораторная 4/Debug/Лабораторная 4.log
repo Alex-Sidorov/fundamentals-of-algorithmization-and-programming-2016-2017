@@ -1,0 +1,24 @@
+﻿  library.cpp
+e:\учеба\оаип\лабы\акинатор\лабораторная 4\library.cpp(133): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105): см. объявление "strcpy"
+e:\учеба\оаип\лабы\акинатор\лабораторная 4\library.cpp(335): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105): см. объявление "strcpy"
+e:\учеба\оаип\лабы\акинатор\лабораторная 4\library.cpp(336): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105): см. объявление "strcpy"
+e:\учеба\оаип\лабы\акинатор\лабораторная 4\library.cpp(348): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105): см. объявление "strcpy"
+e:\учеба\оаип\лабы\акинатор\лабораторная 4\library.cpp(349): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105): см. объявление "strcpy"
+e:\учеба\оаип\лабы\акинатор\лабораторная 4\library.cpp(361): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105): см. объявление "strcpy"
+e:\учеба\оаип\лабы\акинатор\лабораторная 4\library.cpp(366): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105): см. объявление "strcpy"
+e:\учеба\оаип\лабы\акинатор\лабораторная 4\library.cpp(367): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105): см. объявление "strcpy"
+e:\учеба\оаип\лабы\акинатор\лабораторная 4\library.cpp(379): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105): см. объявление "strcpy"
+e:\учеба\оаип\лабы\акинатор\лабораторная 4\library.cpp(380): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105): см. объявление "strcpy"
+e:\учеба\оаип\лабы\акинатор\лабораторная 4\library.cpp(392): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105): см. объявление "strcpy"
+  Лабораторная 4.vcxproj -> E:\Учеба\ОАиП\лабы\акинатор\Debug\Лабораторная 4.exe
